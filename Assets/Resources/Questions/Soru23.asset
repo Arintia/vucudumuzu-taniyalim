@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru23
+  m_EditorClassIdentifier: 
+  questionTxt: "I. G\xF6\u011F\xFCs kafesi geni\u015Fler.<br>II. Diyafram kas\u0131
+    kubbele\u015Fir.<br>III. Akci\u011Ferlerin hacmi k\xFC\xE7\xFCl\xFCr.<br>Soluk
+    verme s\u0131ras\u0131nda yukar\u0131da verilenlerden hangileri ger\xE7ekle\u015Fir?"
+  questionAnswers:
+  - "Yaln\u0131z I"
+  - I ve II
+  - II ve III
+  - I, II ve III
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 2

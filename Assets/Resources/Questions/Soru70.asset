@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru70
+  m_EditorClassIdentifier: 
+  questionTxt: "Selma \xD6\u011Fretmen \xF6\u011Frencilerine sindirimde g\xF6revli
+    yap\u0131 ve organlardan biriyle ilgili bilgiler veriyor.<br>Su, vitamin ve mineraller
+    sindirime u\u011Framadan buraya gelir. Sindirim olay\u0131 sonucunda olu\u015Fan
+    at\u0131k maddeler son b\xF6l\xFCm olan an\xFCs yoluyla v\xFCcuttan uzakla\u015Ft\u0131r\u0131l\u0131r.<br>Buna
+    g\xF6re bilgi verilen yap\u0131 veya organ\u0131n \u015Fekli a\u015Fa\u011F\u0131dakilerden
+    hangisidir?"
+  questionAnswers:
+  - Mide
+  - "A\u011F\u0131z"
+  - "Kal\u0131n Ba\u011F\u0131rsak"
+  - "Karaci\u011Fer"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 2

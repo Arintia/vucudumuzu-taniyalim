@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru39
+  m_EditorClassIdentifier: 
+  questionTxt: "Tansiyonun d\xFCzenlenmesini sa\u011Flar.<br>Kalsiyum mineral dengesini
+    kontrol eder.<br>Kandaki zararl\u0131 maddeleri s\xFCzerek v\xFCcuttan uzakla\u015Ft\u0131r\u0131r.<br>Yukar\u0131da
+    \xF6zellikleri verilen organ a\u015Fa\u011F\u0131dakilerden hangisidir ?"
+  questionAnswers:
+  - Pankreas
+  - "B\xF6brek"
+  - "Kal\u0131n ba\u011F\u0131rsak"
+  - Mide
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 1

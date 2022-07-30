@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru48
+  m_EditorClassIdentifier: 
+  questionTxt: "Akci\u011Ferlerde bron\u015F\xE7uklar\u0131n ucunda bulunan, etraf\u0131
+    k\u0131lcal damarlarla \xE7evrili ve gaz al\u0131\u015F-veri\u015Finin ger\xE7ekle\u015Fti\u011Fi
+    yap\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+  questionAnswers:
+  - Yutak
+  - Diyafram
+  - Alveol
+  - "G\u0131rtlak"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 2

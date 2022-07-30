@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru18
+  m_EditorClassIdentifier: 
+  questionTxt: "Yukar\u0131da verilen kan dola\u015F\u0131m\u0131 g\xF6rseli \xFCzerindeki
+    numaralanm\u0131\u015F yap\u0131lardan hangisinin g\xF6revi yanl\u0131\u015F
+    verilmi\u015Ftir? "
+  questionAnswers:
+  - "I, akci\u011Ferlere kirli kan g\xF6t\xFCr\xFCr. "
+  - "II, v\xFCcuttan kirli kan\u0131 toplayarak kalbe getirir. "
+  - "III. akci\u011Ferlerden ald\u0131\u011F\u0131 temiz kan\u0131 kalbe getirir. "
+  - "IV, t\xFCm v\xFCcuda temiz kan da\u011F\u0131t\u0131r."
+  questionHasImg: 1
+  questionImg: {fileID: 21300000, guid: 57fd7620cea8687428b7a59145521dc3, type: 3}
+  correctAnswerIndex: 2

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru62
+  m_EditorClassIdentifier: 
+  questionTxt: "Ahmet, radyodan \u201CBir hasta i\xE7in acil olarak O grubu Rh (-)
+    kana ihtiya\xE7 vard\u0131r. Kan vermek isteyenlerin ... hastanesine ba\u015Fvurmalar\u0131
+    rica olunur.\u201D anonsunu duyuyor.<br>Kan grubu uygun oldu\u011Fu i\xE7in kan
+    vermeye giden Ahmet\u2019in kan grubu a\u015Fa\u011F\u0131dakilerden hangisidir?"
+  questionAnswers:
+  - 'A Rh (-) '
+  - O Rh (-)
+  - 'AB Rh (+) '
+  - O Rh (+)
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 1

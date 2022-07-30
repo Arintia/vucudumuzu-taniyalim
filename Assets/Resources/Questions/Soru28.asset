@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru28
+  m_EditorClassIdentifier: 
+  questionTxt: "\u015Eekilde sindirim sistemine ait baz\u0131 organ ve yap\u0131lar
+    numaralanarak g\xF6sterilmi\u015Ftir.<br>Bu b\xF6l\xFCmlerle ilgili olarak a\u015Fa\u011F\u0131dakilerden
+    hangisi s\xF6ylenemez?"
+  questionAnswers:
+  - "I, sindirimin ba\u015Flad\u0131\u011F\u0131 yerdir."
+  - "II\u2019de sindirim yoktur."
+  - "III\u2019te sindirilen besinler kana kar\u0131\u015F\u0131r."
+  - "IV, sindirim at\u0131klar\u0131n\u0131n at\u0131ld\u0131\u011F\u0131 yerdir."
+  questionHasImg: 1
+  questionImg: {fileID: 21300000, guid: 47ab87c56eae64540ada87dc431ac785, type: 3}
+  correctAnswerIndex: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru49
+  m_EditorClassIdentifier: 
+  questionTxt: "\u0130skeletimizde bulunan baz\u0131 eklemler a\u015Fa\u011F\u0131da
+    verilmi\u015Ftir.<br>I. Kol eklemleri<br>II. Kafatas\u0131 eklemleri<br>III.
+    Bel omurlar\u0131 aras\u0131ndaki eklemler<br>Bu eklemlerin hareket yeteneklerinin
+    \xE7oktan aza s\u0131ralanmas\u0131 a\u015Fa\u011F\u0131dakilerin hangisinde
+    do\u011Fru verilmi\u015Ftir?"
+  questionAnswers:
+  - I - II - III
+  - I - III - II
+  - "II - I \u2013 III"
+  - "III - II \u2013 I"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 1

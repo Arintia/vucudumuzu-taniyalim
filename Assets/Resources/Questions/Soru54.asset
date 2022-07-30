@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru54
+  m_EditorClassIdentifier: 
+  questionTxt: "A\u015Fa\u011F\u0131dakilerin hangisi omurili\u011Fin g\xF6revlerinden
+    biridir?"
+  questionAnswers:
+  - "Reflekslerin kontrol\xFCn\xFC sa\u011Flama"
+  - "Kan bas\u0131nc\u0131n\u0131 ve v\xFCcut s\u0131cakl\u0131\u011F\u0131n\u0131
+    ayarlama"
+  - "Kol ve bacaklardaki kaslar\u0131n birbirleriyle uyumlu \xE7al\u0131\u015Fmas\u0131n\u0131
+    sa\u011Flama"
+  - "Ac\u0131kma, susama, uyku durumlar\u0131n\u0131 d\xFCzenleme"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 0

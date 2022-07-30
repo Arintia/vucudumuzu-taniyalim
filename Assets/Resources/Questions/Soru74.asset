@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru74
+  m_EditorClassIdentifier: 
+  questionTxt: "Fen bilimleri dersinde \xF6\u011Fretmen \xF6\u011Frencilerinden bo\u015Falt\u0131m
+    sistemi ile ilgili bildiklerini kartlara yazmalar\u0131n\u0131 istiyor.<br>Buna
+    g\xF6re a\u015Fa\u011F\u0131daki \xF6\u011Frencilerden hangisinin yazd\u0131\u011F\u0131
+    bilgide hata bulunmaktad\u0131r?"
+  questionAnswers:
+  - "Erdin\xE7, b\xF6brekler kan\u0131 s\xFCzerek temizler."
+  - "Mahmut, b\xF6brek atar damar\u0131 ile b\xF6bre\u011Fe \xFCre miktar\u0131 fazla
+    olan kan gelir."
+  - "Feyza, \xFCreter b\xF6brekte olu\u015Fan idrar\u0131n idrar kesesine ta\u015F\u0131nmas\u0131n\u0131
+    sa\u011Flar."
+  - "Esra, b\xF6brekte s\xFCz\xFClen at\u0131k maddeler an\xFCsten d\u0131\u015Far\u0131
+    at\u0131l\u0131r"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 3

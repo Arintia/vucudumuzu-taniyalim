@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru55
+  m_EditorClassIdentifier: 
+  questionTxt: "Sindirim s\u0131ras\u0131nda ger\xE7ekle\u015Fen a\u015Fa\u011F\u0131daki
+    olaylardan hangisi kimyasal sindirime \xF6rnektir?"
+  questionAnswers:
+  - "Ni\u015Fastan\u0131n t\xFCk\xFCr\xFCk i\xE7inde bulunan enzimler ile par\xE7alanmas\u0131"
+  - "Besinlerin midede kaslar yard\u0131m\u0131yla bulama\xE7 h\xE2line gelmesi"
+  - "Ya\u011F\u0131n, safra salg\u0131s\u0131 ile k\xFC\xE7\xFCk ya\u011F damlac\u0131klar\u0131
+    h\xE2line gelmesi"
+  - "Peynir par\xE7as\u0131n\u0131n di\u015Fler yard\u0131m\u0131yla \xE7i\u011Fnenmesi"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 0

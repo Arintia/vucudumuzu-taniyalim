@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru34
+  m_EditorClassIdentifier: 
+  questionTxt: "Besinler, sindirim organlar\u0131m\u0131zdaki kas hareketleri ile
+    itilerek di\u011Fer organlara iletilir. A\u011F\u0131zda ba\u015Flat\u0131lan
+    \xE7i\u011Fneme hareketi bir kas\u0131lma dalgas\u0131 olu\u015Fturur ve bu dalga
+    t\xFCm sindirim kanal\u0131 boyunca yay\u0131l\u0131r.<br>Yer\xE7ekimi kuvveti
+    besinlerin a\u015Fa\u011F\u0131 do\u011Fru ta\u015F\u0131nmas\u0131nda yeterli
+    olabilecekken verilen,<br>1. Uzan\u0131rken besinlerin sindirim kanal\u0131nda
+    ilerleyebilmesi<br>2. Ba\u011F\u0131rsaklar\u0131n baz\u0131 b\xF6lgelerinde
+    besinlerin yukar\u0131 y\xF6nl\xFC ta\u015F\u0131nabilmesi<br>3. B\xFCy\xFCk
+    bir besin par\xE7as\u0131yla yemek borusunun t\u0131kanmas\u0131n\u0131n engellenebilmesi<br>ifadelerinden
+    hangileri kas hareketlerine duyulan ihtiyaca gerek\xE7e olarak g\xF6sterilebilir?"
+  questionAnswers:
+  - "Yaln\u0131z 1"
+  - 1 ve 2
+  - 2 ve 3
+  - 1,2 ve 3
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 3

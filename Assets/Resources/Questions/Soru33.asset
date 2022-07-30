@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru33
+  m_EditorClassIdentifier: 
+  questionTxt: "18-65 ya\u015F aras\u0131nda, k\xFCtlesi en az 50 kg olan her sa\u011Fl\u0131kl\u0131
+    birey kan ba\u011F\u0131\u015F\u0131nda bulunabilir. Baz\u0131 ki\u015Filere
+    ait \xF6zellikler tabloda verilmi\u015Ftir.<br>B Rh (+) kan grubundaki Ay\u015Fe\u2019ye
+    yukar\u0131daki ki\u015Filerden hangisi kan verebilir?"
+  questionAnswers:
+  - Seda
+  - Ali
+  - "\u0130rem"
+  - Gamze
+  questionHasImg: 1
+  questionImg: {fileID: 21300000, guid: 3ea14575fd3d6044cb2adcb1f7610254, type: 3}
+  correctAnswerIndex: 1

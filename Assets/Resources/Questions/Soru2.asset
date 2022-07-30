@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru2
+  m_EditorClassIdentifier: 
+  questionTxt: "Yukar\u0131da verilen g\xF6rsel ile ilgili,  <br>I. K\xFC\xE7\xFCk
+    kan dola\u015F\u0131m\u0131d\u0131r.<br>II.Kalpten \xE7\u0131kan kirli kan, akci\u011Ferlerde
+    temizlenip oksijence zenginle\u015Fir. <br>III.Temiz kan, akci\u011Ferlerden
+    kalbe akci\u011Fer toplardamar\u0131 ile d\xF6ner.  <br>yorumlar\u0131ndan hangileri
+    do\u011Frudur?"
+  questionAnswers:
+  - "Yaln\u0131z I"
+  - I ve II
+  - II ve III
+  - I, II ve III
+  questionHasImg: 1
+  questionImg: {fileID: 21300000, guid: 6351c7ab0d6c70e498efb5af8284d87e, type: 3}
+  correctAnswerIndex: 3

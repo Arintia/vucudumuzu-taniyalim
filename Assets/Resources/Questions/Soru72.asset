@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru72
+  m_EditorClassIdentifier: 
+  questionTxt: "V\xFCcudumuzun s\u0131cakl\u0131k, ses, \u0131\u015F\u0131k gibi
+    baz\u0131 uyar\u0131lara kar\u015F\u0131 d\xFC\u015F\xFCnmeden, aniden ve iste\u011Fimiz
+    d\u0131\u015F\u0131nda g\xF6sterdi\u011Fi tepkilere \u201Crefleks\u201D denir.<br>Buna
+    g\xF6re a\u015Fa\u011F\u0131dakilerden hangisi reflekse \xF6rnek g\xF6sterilemez?"
+  questionAnswers:
+  - Uyumak
+  - "K\xF6pek g\xF6r\xFCnce ka\xE7mak"
+  - "Limon g\xF6r\xFCnce a\u011Fz\u0131n sulanmas\u0131"
+  - "Araba s\xFCrmek"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 0

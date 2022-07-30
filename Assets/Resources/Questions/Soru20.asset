@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru20
+  m_EditorClassIdentifier: 
+  questionTxt: "Akyuvarlar a\u015Fa\u011F\u0131da verilen durumlardan hangisinde
+    g\xF6rev yapar?"
+  questionAnswers:
+  - "V\xFCcut savunmas\u0131nda"
+  - "Oksijenin ta\u015F\u0131nmas\u0131nda"
+  - Kan grubunun belirlenmesinde
+  - "Kan kayb\u0131n\u0131n \xF6nlenmesinde"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 0

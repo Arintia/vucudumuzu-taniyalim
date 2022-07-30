@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru21
+  m_EditorClassIdentifier: 
+  questionTxt: "Dola\u015F\u0131m sistemine ait bir yap\u0131y\u0131 tan\u0131tmak
+    i\xE7in yukar\u0131daki \u015Fema haz\u0131rlan\u0131yor.<br>Buna g\xF6re soru
+    i\u015Faretiyle g\xF6sterilen b\xF6l\xFCme hangisi yaz\u0131lmal\u0131d\u0131r? "
+  questionAnswers:
+  - Kan
+  - Kalp
+  - "Akci\u011Fer"
+  - Damarlar
+  questionHasImg: 1
+  questionImg: {fileID: 21300000, guid: dff1b746f072ef84b93a2b03eee15963, type: 3}
+  correctAnswerIndex: 3

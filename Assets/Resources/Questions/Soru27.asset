@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru27
+  m_EditorClassIdentifier: 
+  questionTxt: "Bir \xF6\u011Fretmen s\u0131n\u0131fa girdi\u011Finde s\u0131n\u0131ftaki
+    \xF6\u011Frencilerin yorgun ve halsiz oldu\u011Funu fark ederek bir \xF6nceki
+    dersin beden e\u011Fitimi oldu\u011Funu anlar.<br>Bu durumun nedeni a\u015Fa\u011F\u0131dakilerden
+    hangisi olabilir?"
+  questionAnswers:
+  - "Kol ve bacaklar\u0131m\u0131zdaki d\xFCz kaslar\u0131n \xE7abuk y\u0131pranmas\u0131"
+  - "\u0130\xE7 organlar\u0131m\u0131z\u0131n yap\u0131s\u0131ndaki kaslar\u0131n
+    h\u0131zl\u0131 kas\u0131lmas\u0131"
+  - "Kalp kas\u0131n\u0131n g\xFC\xE7l\xFC kas\u0131l\u0131p gev\u015Femesi"
+  - "V\xFCcudumuzu saran \xE7izgili kaslar\u0131n \xE7abuk yorulmas\u0131"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 3

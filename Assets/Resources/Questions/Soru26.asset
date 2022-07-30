@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru26
+  m_EditorClassIdentifier: 
+  questionTxt: "Kan ba\u011F\u0131\u015F\u0131yla ilgili sunum yapmak isteyen bir
+    \xF6\u011Frenci a\u015Fa\u011F\u0131daki ifadelerden hangisini kullanamaz?"
+  questionAnswers:
+  - "Kan ba\u011F\u0131\u015F\u0131 ki\u015Fileri daha sa\u011Fl\u0131kl\u0131 yapar."
+  - "Kan ba\u011F\u0131\u015F\u0131 toplumsal dayan\u0131\u015Fmay\u0131 artt\u0131r\u0131r."
+  - "Bireyler hi\xE7bir \u015Fart aranmaks\u0131z\u0131n kan ba\u011F\u0131\u015F\u0131
+    yapabilir."
+  - "Ki\u015Filer, kan ba\u011F\u0131\u015F\u0131 ile ilgili bilin\xE7lendirilmelidir"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru68
+  m_EditorClassIdentifier: 
+  questionTxt: "Besinler ve beslenmeyle ilgili a\u015Fa\u011F\u0131daki bilgilerden
+    hangisi yanl\u0131\u015Ft\u0131r?"
+  questionAnswers:
+  - "Meyve ve sebzeler v\xFCcudumuzda d\xFCzenleyici olarak g\xF6rev yapar."
+  - "Besinlerin v\xFCcuda yararl\u0131 h\xE2le gelebilmesi i\xE7in de\u011Fi\u015Fime
+    u\u011Framas\u0131 gerekir."
+  - "T\xFCm besin maddelerinin i\xE7erisinde az veya \xE7ok miktarda su ve mineraller
+    bulunabilir."
+  - "B\xFCy\xFCme ve yaralar\u0131n onar\u0131m\u0131 i\xE7in bol miktarda ya\u011F
+    i\xE7eren besinler t\xFCketilmelidir."
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 3

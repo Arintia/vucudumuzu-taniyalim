@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru59
+  m_EditorClassIdentifier: 
+  questionTxt: "A\u015Fa\u011F\u0131dakilerden hangisi i\xE7 salg\u0131 bezlerinin
+    d\xFCzenli \xE7al\u0131\u015Fmamas\u0131na ba\u011Fl\u0131 olarak ortaya \xE7\u0131kan
+    bir duruma \xF6rnek olarak verilebilir?"
+  questionAnswers:
+  - "A\u011F\u0131r cisimler yerden kald\u0131r\u0131l\u0131rken, dizler b\xFCk\xFClmedi\u011Fi
+    i\xE7in belin sakatlanmas\u0131"
+  - "Pankreas\u0131n ins\xFClin salg\u0131s\u0131n\u0131n yetersizli\u011Fine ba\u011Fl\u0131
+    olarak, ki\u015Fide a\u015F\u0131r\u0131 kilo kayb\u0131n\u0131n g\xF6r\xFClmesi"
+  - "Akci\u011Fer dokusunun iltihaplanmas\u0131 sonucu nefes darl\u0131\u011F\u0131,
+    \xF6ks\xFCr\xFCk gibi belirtilerin ortaya \xE7\u0131kmas\u0131"
+  - "Kulak zar\u0131n\u0131n zedelenmesine ba\u011Fl\u0131 olarak i\u015Fitme kayb\u0131n\u0131n
+    ortaya \xE7\u0131kmas\u0131"
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 1

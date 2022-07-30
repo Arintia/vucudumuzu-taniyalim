@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d87d163f4e6ed4cacc12b8bbfe266a, type: 3}
+  m_Name: Soru57
+  m_EditorClassIdentifier: 
+  questionTxt: "Tedavisi m\xFCmk\xFCn olmayan hastal\u0131klar nedeniyle g\xF6revini
+    yapamayacak kadar hasar g\xF6ren organlar\u0131n yerine sa\u011Flam organ par\xE7as\u0131n\u0131n
+    veya t\xFCm organ\u0131n t\u0131bbi y\xF6ntemlerle konularak hastan\u0131n tedavi
+    edilmesi - - - - olarak adland\u0131r\u0131l\u0131r.<br>Bu c\xFCmlede bo\u015F
+    b\u0131rak\u0131lan yere a\u015Fa\u011F\u0131dakilerden hangisinin yaz\u0131lmas\u0131
+    uygundur?"
+  questionAnswers:
+  - "ilk yard\u0131m"
+  - diyaliz
+  - "organ ba\u011F\u0131\u015F\u0131"
+  - 'organ nakli '
+  questionHasImg: 0
+  questionImg: {fileID: 0}
+  correctAnswerIndex: 3
